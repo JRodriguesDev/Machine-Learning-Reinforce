@@ -32,4 +32,4 @@ O agente precisa aprender a tomar as melhores ações (mover para cima, baixo, e
 
 O modelo foi treinado para encontrar a política ideal, ou seja, o melhor caminho a seguir a partir de cada estado para alcançar o objetivo.
 
-Adicionar um parágrafo sobre o seu resultado, ex: "O agente alcançou o objetivo em X% das tentativas, demonstrando uma política de navegação eficaz."
+O agente alcançou o objetivo em X% das tentativas, demonstrando uma política de navegação eficaz.
